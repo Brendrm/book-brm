@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="54" viewBox="0 0 58 54">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectángulo_216" data-name="Rectángulo 216" d="M24,0H34A24,24,0,0,1,58,24V54a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V24A24,24,0,0,1,24,0Z" transform="translate(864 1793)" fill="#37424a"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_17" data-name="Enmascarar grupo 17" transform="translate(-864 -1793)" clip-path="url(#clip-path)">
+    <g id="Recurso_16" data-name="Recurso 16" transform="translate(866.375 1793)">
+      <g id="Capa_1" data-name="Capa 1">
+        <path id="Trazado_64" data-name="Trazado 64" d="M0,54V12.029A11.947,11.947,0,0,1,11.865,0H41.384A11.947,11.947,0,0,1,53.249,12.029V54" fill="#34516b"/>
+        <path id="Trazado_65" data-name="Trazado 65" d="M37.957,15.169H15.292a.874.874,0,0,0-.874.874V38.708a.874.874,0,0,0,.874.874H37.957a.874.874,0,0,0,.874-.874V16.043A.874.874,0,0,0,37.957,15.169Zm-.874,22.665H16.166V16.917H37.083Z" fill="#71b1e2"/>
+        <path id="Trazado_66" data-name="Trazado 66" d="M33.711,31.4a1.365,1.365,0,0,1-1.283,1.3H20.822a1.365,1.365,0,0,1-1.283-1.3V24.29a1.283,1.283,0,0,1,1.283-1.283H23.4l1.283-1.939h3.878l1.283,1.939h2.581a1.283,1.283,0,0,1,1.283,1.283Z" fill="none" stroke="#71b1e2" stroke-miterlimit="10" stroke-width="1.365"/>
+        <circle id="Elipse_1" data-name="Elipse 1" cx="2.581" cy="2.581" r="2.581" transform="translate(24.044 24.29)" fill="none" stroke="#71b1e2" stroke-miterlimit="10" stroke-width="1.365"/>
+      </g>
+    </g>
+  </g>
+</svg>

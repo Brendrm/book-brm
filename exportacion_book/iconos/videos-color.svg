@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="124" viewBox="0 0 92 124">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_239" data-name="Rectángulo 239" width="92" height="83" transform="translate(804 384)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_62" data-name="Grupo 62" transform="translate(-794 -785)">
+    <g id="Enmascarar_grupo_29" data-name="Enmascarar grupo 29" transform="translate(-10 401)" clip-path="url(#clip-path)">
+      <g id="video" transform="translate(804 389.499)">
+        <g id="Capa_1" data-name="Capa 1">
+          <path id="Trazado_105" data-name="Trazado 105" d="M84,72H7.977A8.01,8.01,0,0,1,0,63.992V8A8,8,0,0,1,8,0H84.023A8,8,0,0,1,92,8V63.992A8.01,8.01,0,0,1,84,72ZM22.036,4H8A4.011,4.011,0,0,0,4,8v4H22.036ZM44.072,4H26v8H43.995ZM66.108,4H47.994v8H66ZM88.144,8a4.011,4.011,0,0,0-4-4H70v8H88Zm0,8H4v40H88Zm0,43.995H70V68H66v-8.01h-18V68h-4v-8.01H26V68H22.036v-8.01H4v4A4.011,4.011,0,0,0,8,68H84.023a4.011,4.011,0,0,0,4-4.011ZM41.24,47.531A1.961,1.961,0,0,1,40,47.994,1.994,1.994,0,0,1,38,46V26A2.005,2.005,0,0,1,40,24a1.906,1.906,0,0,1,1.1.4l15.568,9.762A1.983,1.983,0,0,1,58,36.018a1.95,1.95,0,0,1-.815,1.565Z" fill="#ef797a"/>
+        </g>
+      </g>
+    </g>
+    <text id="VIDEOS" transform="translate(811 903)" fill="#f27979" font-size="16" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">VIDEOS</tspan></text>
+  </g>
+</svg>

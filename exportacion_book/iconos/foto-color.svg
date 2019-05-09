@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="124" viewBox="0 0 101 124">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_238" data-name="Rectángulo 238" width="92" height="83" transform="translate(638 384)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_61" data-name="Grupo 61" transform="translate(-628 -785)">
+    <g id="Enmascarar_grupo_28" data-name="Enmascarar grupo 28" transform="translate(-10 401)" clip-path="url(#clip-path)">
+      <g id="fotografia" transform="translate(638 391.498)">
+        <g id="Capa_1" data-name="Capa 1">
+          <path id="Trazado_104" data-name="Trazado 104" d="M84,68H8A8,8,0,0,1,0,60V16A8,8,0,0,1,8,8h2a4.009,4.009,0,0,1,4-4h4A4.009,4.009,0,0,1,22,8h4A7.338,7.338,0,0,0,30,6l3.954-4A5.575,5.575,0,0,1,38,0H54a5.115,5.115,0,0,1,4.052,2l4,4A7.338,7.338,0,0,0,66,8H84A8,8,0,0,1,92,16V60A8,8,0,0,1,84,68Zm4-52a4,4,0,0,0-4-3.954H65.561a11.248,11.248,0,0,1-6.418-3.22l-4.228-4.26-.153-.3A1.15,1.15,0,0,0,54.05,4H38a1.709,1.709,0,0,0-.854.46l-.153.2-4.14,4.173a11.248,11.248,0,0,1-6.385,3.143H8a4,4,0,0,0-4,4V60a4,4,0,0,0,4,4H84a4,4,0,0,0,4-4ZM46,60A22,22,0,1,1,68,38,22,22,0,0,1,46,60Zm0-40A18.006,18.006,0,1,0,63.995,38,18.006,18.006,0,0,0,46,20ZM46,48A10,10,0,1,1,56,38,10,10,0,0,1,46,48Zm0-16a6,6,0,1,0,6,6,6,6,0,0,0-6-6ZM17.995,24H10A1.993,1.993,0,0,1,8,22V17.995A2,2,0,0,1,10,16h8a2,2,0,0,1,2,1.993V22a1.993,1.993,0,0,1-2,1.993Z" fill="#ef797a"/>
+        </g>
+      </g>
+    </g>
+    <text id="FOTOGRAFÍA" transform="translate(630 903)" fill="#f27979" font-size="16" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">FOTOGRAFÍA</tspan></text>
+  </g>
+</svg>

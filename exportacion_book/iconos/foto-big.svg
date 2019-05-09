@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="201" height="196" viewBox="0 0 201 196">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_218" data-name="Rectángulo 218" width="201" height="196" transform="translate(347 1938)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_23" data-name="Enmascarar grupo 23" transform="translate(-347 -1938)" clip-path="url(#clip-path)">
+    <g id="Recurso_16" data-name="Recurso 16" transform="translate(350.863 1938)">
+      <g id="Capa_1" data-name="Capa 1">
+        <path id="Trazado_87" data-name="Trazado 87" d="M0,196V43.66A43.363,43.363,0,0,1,43.065,0H150.209a43.363,43.363,0,0,1,43.065,43.66V196" fill="#34516b"/>
+        <path id="Trazado_88" data-name="Trazado 88" d="M137.77,55.058H55.5a3.172,3.172,0,0,0-3.172,3.172V140.5a3.172,3.172,0,0,0,3.172,3.172H137.77a3.172,3.172,0,0,0,3.172-3.172V58.23A3.172,3.172,0,0,0,137.77,55.058ZM134.6,137.324H58.676V61.4H134.6Z" fill="#71b1e2"/>
+        <path id="Trazado_89" data-name="Trazado 89" d="M122.358,113.982a4.956,4.956,0,0,1-4.658,4.708H75.575a4.956,4.956,0,0,1-4.658-4.708V88.163A4.658,4.658,0,0,1,75.575,83.5h9.366L89.6,76.467h14.074l4.658,7.037H117.7a4.658,4.658,0,0,1,4.658,4.658Z" fill="none" stroke="#71b1e2" stroke-miterlimit="10" stroke-width="4.956"/>
+        <circle id="Elipse_2" data-name="Elipse 2" cx="9.366" cy="9.366" r="9.366" transform="translate(87.271 88.163)" fill="none" stroke="#71b1e2" stroke-miterlimit="10" stroke-width="4.956"/>
+      </g>
+    </g>
+  </g>
+</svg>

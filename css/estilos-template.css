@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/*falta meter tipografia y estilos de h1, h6*/
+div#centrarNav, div#centrarHeader, div#centrarFooter{
+	position: relative;
+	width: 1200px;
+	height: 100%;
+	background-color: rgba(90,210,237,0.50);
+	margin: 0 auto;
+}
+nav{
+	width: 100%;
+	height: 103px;
+	background-image: url(../exportacion_book/fotografias/nav-fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+div#centrarNav img{
+	position: absolute;
+	top: 6px;
+	left: 7px;
+}
+
+div#navOpacidad{
+	width: 100%;
+	height: 80px;
+	background-color: rgba(242,242,242,0.60);
+	position: absolute;
+	top: 24px;
+}
+
+div#rectangulo-gris{
+	width: 1059px;
+	height: 24px;
+	background-color: rgba(55,66,74,1.00);
+	margin-top: -24px;
+}
+
+div#rectangulo-naranja{
+	width: 308px;
+	height: 24px;
+	background-color: rgba(55,66,74,1.00);
+	margin-top: -24px;
+	float: right;
+	background-color: #F27979;
+}
+
+
+header{
+	width: 100%;
+	height: 450px;
+	background-image: url(../exportacion_book/fotografias/foto-header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+footer{
+	width: 100%;
+	height: 323px;
+	background-color: #37424A;
+}
+
+footer{
+	position: relative;
+}
+footer div#colorfooter{
+	width: 100%;
+	height: 64px;
+	background-color: #F27979;
+	position: absolute;
+	top: 259px;
+}
+
+div#centrarHeader img{
+	position: absolute;
+	top: 242px;
+	left: 0px;
+}
+
+

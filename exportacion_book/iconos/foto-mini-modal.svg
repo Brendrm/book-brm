@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_258" data-name="Rectángulo 258" width="45" height="45" transform="translate(1106 1084)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_42" data-name="Enmascarar grupo 42" transform="translate(-1106 -1084)" clip-path="url(#clip-path)">
+    <g id="foto" transform="translate(1106.313 1084)">
+      <g id="Capa_1" data-name="Capa 1">
+        <path id="Trazado_143" data-name="Trazado 143" d="M0,45V10.024A9.956,9.956,0,0,1,9.887,0h24.6a9.956,9.956,0,0,1,9.887,10.024V45" fill="#34516b"/>
+        <path id="Trazado_144" data-name="Trazado 144" d="M31.631,12.641H12.743a.728.728,0,0,0-.728.728V32.257a.728.728,0,0,0,.728.728H31.631a.728.728,0,0,0,.728-.728V13.369A.728.728,0,0,0,31.631,12.641ZM30.9,31.528H13.472V14.1H30.9Z" fill="#71b1e2"/>
+        <path id="Trazado_145" data-name="Trazado 145" d="M28.092,26.169a1.138,1.138,0,0,1-1.07,1.081H17.351a1.138,1.138,0,0,1-1.07-1.081V20.241a1.07,1.07,0,0,1,1.07-1.07H19.5l1.07-1.616H23.8l1.07,1.616h2.15a1.07,1.07,0,0,1,1.07,1.07Z" fill="none" stroke="#71b1e2" stroke-miterlimit="10" stroke-width="1.138"/>
+        <circle id="Elipse_3" data-name="Elipse 3" cx="2.15" cy="2.15" r="2.15" transform="translate(20.037 20.241)" fill="none" stroke="#71b1e2" stroke-miterlimit="10" stroke-width="1.138"/>
+      </g>
+    </g>
+  </g>
+</svg>
