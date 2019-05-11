@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	height: 2879px;
+}
+
+header div#cajitas-rosa1{
+	width: 1150px;
+	height: 129px;
+	background-color: #D8BEBE;
+	float: right;
+	margin-top: -30px;
+	position: relative;
+	z-index: 0;
+	
+	
+}
+
+header div#cajitas-rosa2{
+	width: 1150px;
+	height: 129px;
+	background-color: #D8BEBE;
+	float: left;
+	margin-top: 449px;
+}
+
+header div#cajitas-rosa3{
+	width: 1150px;
+	height: 129px;
+	background-color: #D8BEBE;
+	float: right;
+	margin-top: 610px;
+}
+
+header div#cajitas-rosa4{
+	width: 1150px;
+	height: 129px;
+	background-color: #D8BEBE;
+	float: left;
+	margin-top: 675px;
+}
+
+div#cajita-borde-naranja1{
+	width: 340px;
+	height: 508px;
+	margin-top: 45px;
+	margin-left: 97px;
+	border: solid 2px #F27979;
+	position: relative;
+	z-index: 1;
+}
+
+header div img{
+	margin-top: -750px;
+	position: relative;
+	z-index: 2;
+}
+
+div#box-mini-gris{
+	width: 108px;
+	height: 63px;
+	background-color: #37424A;
+	margin-left: 360px;
+	position: absolute;
+	top: -450px;
+}
+div#caja-perfil{
+	width: 900px;
+	height: 257px;
+	background-color: #F2F2F2;
+	margin-left: 525px;
+	position: absolute;
+	top: 350px;
+}
+
+div#centrarHeader h1{
+	float: right;
+	margin-top: -2175px;
+	color: #37424A;
+}
+footer{
+	margin-top: 2556px;
+}

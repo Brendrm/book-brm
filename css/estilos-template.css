@@ -1,19 +1,54 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:500');
 *{
 	margin: 0;
 	padding: 0;
 	border: 0;
 }
 
-/*falta meter tipografia y estilos de h1, h6*/
+body{
+	background-image: url(../exportacion_book/art-background-blank-951240.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	font-size: 70px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h2{
+	font-size: 40px;
+	font-family: 'Poppins', sans-serif;
+}
+h3{
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+}
+h4{
+	font-size: 22px;
+	font-family: 'Poppins', sans-serif;
+}
+h5{
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
+
+p{
+	font-size: 18px;
+	font-family: 'Raleway', sans-serif;
+}
+
 div#centrarNav, div#centrarHeader, div#centrarFooter{
 	position: relative;
 	width: 1200px;
 	height: 100%;
-	background-color: rgba(90,210,237,0.50);
 	margin: 0 auto;
+	
 }
 nav{
 	width: 100%;
@@ -26,7 +61,7 @@ nav{
 
 div#centrarNav img{
 	position: absolute;
-	top: 6px;
+	top: 29px;
 	left: 7px;
 }
 
@@ -39,7 +74,7 @@ div#navOpacidad{
 }
 
 div#rectangulo-gris{
-	width: 1059px;
+	width: 100%;
 	height: 24px;
 	background-color: rgba(55,66,74,1.00);
 	margin-top: -24px;
@@ -58,10 +93,12 @@ div#rectangulo-naranja{
 header{
 	width: 100%;
 	height: 450px;
-	background-image: url(../exportacion_book/fotografias/foto-header.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
+}
+
+div#centrarHeader img#foto{
+	position: absolute;
+	top: 0px;
+	left: 570px;
 }
 
 footer{
@@ -70,21 +107,61 @@ footer{
 	background-color: #37424A;
 }
 
-footer{
-	position: relative;
-}
 footer div#colorfooter{
-	width: 100%;
+	width: 1424px;
 	height: 64px;
 	background-color: #F27979;
 	position: absolute;
 	top: 259px;
+	margin-left: -112px;
 }
 
 div#centrarHeader img{
 	position: absolute;
 	top: 242px;
 	left: 0px;
+}
+
+nav ul#menuPrincipal{
+	float: right;
+	list-style: none;
+	margin-top: 56px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	
+}
+
+nav ul#menuPrincipal li{
+	float: left;
+	margin-left: 54px;
+}
+
+nav a{
+	color: #37424A;
+	text-decoration: none;
+}
+div#rectanguloFooter-deco{
+	width: 875px;
+	height: 121px;
+	border: solid 2px #F27979;
+	margin-top: -190px;
+}
+
+ul#menuFooter{
+	float: right;
+	list-style: none;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	margin-top: 60px;
+}
+
+ul#menuFooter li{
+	margin-bottom: 12px;
+}
+
+ul#menuFooter a{
+	text-decoration: none;
+	color: #F2F2F2;
 }
 
 

@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<link href="../css/estilos-template.css" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<nav>
+		<div id="navOpacidad">
+				<div id="rectangulo-gris"></div>
+				<div id="rectangulo-naranja"></div>
+		</div>
+		
+		<div id="centrarNav">
+		<img src="../exportacion_book/logo/logo_brm.svg">
+			<ul id="menuPrincipal">
+				<li>
+					<a href="../index.html">INICIO</a>
+				</li>
+			
+				<li>
+					<a href="../about-me.html">ABOUT ME</a>
+				</li>
+				
+				<li>
+					<a href="../portafolio.html">PORTAFOLIO</a>
+				</li>
+				
+				<li>
+					<a href="../contacto.html">CONTACTO</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	
+	<header><!-- TemplateBeginEditable name="template" -->
+		
+		<div id="centrarHeader">
+		<img src="../exportacion_book/fotografias/foto-header.png" id="foto">
+		<img src="../exportacion_book/logo/dg_header.png">
+		</div>
+	</header>
+	<!-- TemplateEndEditable -->
+	<footer>
+		
+		<div id="centrarFooter">
+			<div id="colorfooter">
+		<div id="rectanguloFooter-deco"></div>
+		</div>
+			<ul id="menuFooter">
+				<li>
+					<a href="../index.html">INICIO</a>
+				</li>
+			
+				<li>
+					<a href="../about-me.html">ABOUT ME</a>
+				</li>
+				
+				<li>
+					<a href="../portafolio.html">PORTAFOLIO</a>
+				</li>
+				
+				<li>
+					<a href="../contacto.html">CONTACTO</a>
+				</li>
+			</ul>
+		</div>
+	</footer>
+	
+</body>
+</html>
