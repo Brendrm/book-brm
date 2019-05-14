@@ -1,17 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="125" viewBox="0 0 101 125">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="134" viewBox="0 0 92 134">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectángulo_232" data-name="Rectángulo 232" width="92" height="83" transform="translate(638 486)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectángulo_232" data-name="Rectángulo 232" width="77.82" height="70.207" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
     </clipPath>
   </defs>
-  <g id="Grupo_67" data-name="Grupo 67" transform="translate(-638 -486)">
-    <text id="FOTOGRAFÍA" transform="translate(640 605)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">FOTOGRAFÍA</tspan></text>
-    <g id="Enmascarar_grupo_35" data-name="Enmascarar grupo 35" clip-path="url(#clip-path)">
-      <g id="Recurso_21" data-name="Recurso 21" transform="translate(638 493.498)">
-        <g id="Capa_1" data-name="Capa 1">
-          <path id="Trazado_123" data-name="Trazado 123" d="M84,68H8A8,8,0,0,1,0,60V16A8,8,0,0,1,8,8h2a4.009,4.009,0,0,1,4-4h4A4.009,4.009,0,0,1,22,8h4A7.338,7.338,0,0,0,30,6l3.954-4A5.575,5.575,0,0,1,38,0H54a5.115,5.115,0,0,1,4.052,2l4,4A7.338,7.338,0,0,0,66,8H84A8,8,0,0,1,92,16V60A8,8,0,0,1,84,68Zm4-52a4,4,0,0,0-4-3.954H65.561a11.248,11.248,0,0,1-6.418-3.22l-4.228-4.26-.153-.3A1.15,1.15,0,0,0,54.05,4H38a1.709,1.709,0,0,0-.854.46l-.153.2-4.14,4.173a11.248,11.248,0,0,1-6.385,3.143H8a4,4,0,0,0-4,4V60a4,4,0,0,0,4,4H84a4,4,0,0,0,4-4ZM46,60A22,22,0,1,1,68,38,22,22,0,0,1,46,60Zm0-40A18.006,18.006,0,1,0,63.995,38,18.006,18.006,0,0,0,46,20ZM46,48A10,10,0,1,1,56,38,10,10,0,0,1,46,48Zm0-16a6,6,0,1,0,6,6,6,6,0,0,0-6-6ZM17.995,24H10A1.993,1.993,0,0,1,8,22V17.995A2,2,0,0,1,10,16h8a2,2,0,0,1,2,1.993V22a1.993,1.993,0,0,1-2,1.993Z" fill="#fff"/>
+  <g id="Grupo_77" data-name="Grupo 77" transform="translate(-638.82 -428)">
+    <g id="Grupo_67" data-name="Grupo 67" transform="translate(647 442)">
+      <text id="FOTOGRAFÍA" transform="translate(1.692 100.279)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">FOTOGRAFÍA</tspan></text>
+      <g id="Enmascarar_grupo_35" data-name="Enmascarar grupo 35" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <g id="Recurso_21" data-name="Recurso 21" transform="translate(0 6.343)">
+          <g id="Capa_1" data-name="Capa 1" transform="translate(0)">
+            <path id="Trazado_123" data-name="Trazado 123" d="M71.057,57.522H6.763A6.763,6.763,0,0,1,0,50.75V13.535A6.763,6.763,0,0,1,6.763,6.763h1.7A3.391,3.391,0,0,1,11.84,3.381h3.381a3.391,3.391,0,0,1,3.391,3.381h3.381a6.207,6.207,0,0,0,3.381-1.686L28.719,1.7A4.716,4.716,0,0,1,32.147,0H45.673A4.326,4.326,0,0,1,49.1,1.7l3.381,3.381a6.207,6.207,0,0,0,3.344,1.686H71.057a6.763,6.763,0,0,1,6.763,6.772V50.75a6.763,6.763,0,0,1-6.763,6.772Zm3.381-43.987a3.381,3.381,0,0,0-3.381-3.344h-15.6a9.514,9.514,0,0,1-5.429-2.724l-3.576-3.6-.13-.25a.973.973,0,0,0-.6-.232H32.147a1.445,1.445,0,0,0-.723.389l-.13.167-3.5,3.53a9.514,9.514,0,0,1-5.4,2.659H6.763a3.381,3.381,0,0,0-3.381,3.381V50.75a3.381,3.381,0,0,0,3.381,3.381H71.057a3.381,3.381,0,0,0,3.381-3.381ZM38.91,50.75a18.612,18.612,0,1,1,18.612-18.6A18.612,18.612,0,0,1,38.91,50.75Zm0-33.833A15.231,15.231,0,1,0,54.131,32.144,15.231,15.231,0,0,0,38.91,16.917Zm0,23.689a8.458,8.458,0,1,1,8.458-8.458,8.458,8.458,0,0,1-8.458,8.458Zm0-13.535a5.077,5.077,0,1,0,5.077,5.077A5.077,5.077,0,0,0,38.91,27.07ZM15.221,20.3H8.458a1.686,1.686,0,0,1-1.7-1.686V15.221a1.7,1.7,0,0,1,1.7-1.686h6.763a1.7,1.7,0,0,1,1.7,1.686v3.391a1.686,1.686,0,0,1-1.7,1.686Z" transform="translate(0)" fill="#fff"/>
+          </g>
         </g>
       </g>
     </g>
+    <rect id="Rectángulo_344" data-name="Rectángulo 344" width="92" height="134" transform="translate(638.82 428)" fill="none" opacity="0.16"/>
   </g>
 </svg>

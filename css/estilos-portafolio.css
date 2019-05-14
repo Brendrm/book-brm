@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	height: 4492px;
+}
+
+footer{
+	margin-top: 4287px;
+}
+
+div.box-rosa#box5{
+	background-color: #D8BEBE;
+	width: 967px;
+	height: 79px;
+	position: absolute;
+	top: 13px;
+	left: 335px;
+}
+
+h1#portafolio{
+	color: #37424A;
+	position: absolute;
+	top: 40px;
+	left: 568px;
+}
+
+div#section-menu{
+	width: 1413px;
+	height: 190px;
+	background-color: #37424A;
+	position: absolute;
+	top: 170px;
+	left: -105px;
+}
+
+div#section-menu div.box-menu{
+	width: 92px;
+	height: 134px;
+	float: right;
+}
+
+div#section-menu div.box-menu#all{
+	position: absolute;
+	left: 110px;
+	top: 30px;	
+	background-image: url(../exportacion_book/iconos/todo-menublanco.svg);
+}
+
+div#section-menu div.box-menu#all:hover{	
+	background-image: url(../exportacion_book/iconos/todo-menucolor.svg);
+}
+div#section-menu div.box-menu#publi{
+	position: absolute;
+	left: 290px;
+	top: 30px;	
+	background-image: url(../exportacion_book/iconos/publicidad-blanco.svg);
+}
+
+div#section-menu div.box-menu#publi:hover{
+	background-image: url(../exportacion_book/iconos/publicidad-color.svg);
+}
+
+div#section-menu div.box-menu#id{
+	position: absolute;
+	left: 470px;
+	top: 25px;
+	background-image: url(../exportacion_book/iconos/identidad-blanco.svg);
+}
+
+div#section-menu div.box-menu#id:hover{
+	background-image: url(../exportacion_book/iconos/identidad-color.svg);
+}
+
+div#section-menu div.box-menu#foto{
+	position: absolute;
+	left: 660px;
+	top: 30px;	
+	background-image: url(../exportacion_book/iconos/foto-blanco.svg);
+}
+
+div#section-menu div.box-menu#foto:hover{
+	background-image: url(../exportacion_book/iconos/foto-color.svg);
+}
+
+div#section-menu div.box-menu#vid{
+	position: absolute;
+	left: 850px;
+	top: 30px;
+	background-image: url(../exportacion_book/iconos/videos-blanco.svg);
+}
+
+div#section-menu div.box-menu#vid:hover{
+	background-image: url(../exportacion_book/iconos/videos-color.svg);
+}
+
+div#section-menu div.box-menu#edit{
+	position: absolute;
+	left: 1030px;
+	top: 30px;	
+	background-image: url(../exportacion_book/iconos/editorial-blanco.svg);
+}
+
+div#section-menu div.box-menu#edit:hover{
+	background-image: url(../exportacion_book/iconos/editorial-color.svg);
+}
+
+div#section-menu div.box-menu#web{
+	position: absolute;
+	left: 1215px;
+	top: 30px;	
+	background-image: url(../exportacion_book/iconos/web-blanco.svg);
+}
+
+div#section-menu div.box-menu#web:hover{
+	background-image: url(../exportacion_book/iconos/web-color.svg);
+}
+
+div#seccion-publicidad{
+	width: 100%;
+	height: 524px;
+	background-color: rgba(230,121,242,0.48);
+	position: absolute;
+	top: 377px;
+}

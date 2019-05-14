@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="124" viewBox="0 0 101 124">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="134" viewBox="0 0 92 134">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectángulo_238" data-name="Rectángulo 238" width="92" height="83" transform="translate(638 384)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectángulo_238" data-name="Rectángulo 238" width="77.82" height="70.21" transform="translate(0 0)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
     </clipPath>
   </defs>
-  <g id="Grupo_61" data-name="Grupo 61" transform="translate(-628 -785)">
-    <g id="Enmascarar_grupo_28" data-name="Enmascarar grupo 28" transform="translate(-10 401)" clip-path="url(#clip-path)">
-      <g id="fotografia" transform="translate(638 391.498)">
-        <g id="Capa_1" data-name="Capa 1">
-          <path id="Trazado_104" data-name="Trazado 104" d="M84,68H8A8,8,0,0,1,0,60V16A8,8,0,0,1,8,8h2a4.009,4.009,0,0,1,4-4h4A4.009,4.009,0,0,1,22,8h4A7.338,7.338,0,0,0,30,6l3.954-4A5.575,5.575,0,0,1,38,0H54a5.115,5.115,0,0,1,4.052,2l4,4A7.338,7.338,0,0,0,66,8H84A8,8,0,0,1,92,16V60A8,8,0,0,1,84,68Zm4-52a4,4,0,0,0-4-3.954H65.561a11.248,11.248,0,0,1-6.418-3.22l-4.228-4.26-.153-.3A1.15,1.15,0,0,0,54.05,4H38a1.709,1.709,0,0,0-.854.46l-.153.2-4.14,4.173a11.248,11.248,0,0,1-6.385,3.143H8a4,4,0,0,0-4,4V60a4,4,0,0,0,4,4H84a4,4,0,0,0,4-4ZM46,60A22,22,0,1,1,68,38,22,22,0,0,1,46,60Zm0-40A18.006,18.006,0,1,0,63.995,38,18.006,18.006,0,0,0,46,20ZM46,48A10,10,0,1,1,56,38,10,10,0,0,1,46,48Zm0-16a6,6,0,1,0,6,6,6,6,0,0,0-6-6ZM17.995,24H10A1.993,1.993,0,0,1,8,22V17.995A2,2,0,0,1,10,16h8a2,2,0,0,1,2,1.993V22a1.993,1.993,0,0,1-2,1.993Z" fill="#ef797a"/>
+  <g id="Grupo_77" data-name="Grupo 77" transform="translate(-638.82 -562)">
+    <rect id="Rectángulo_353" data-name="Rectángulo 353" width="92" height="134" transform="translate(638.82 562)" fill="none" opacity="0.451"/>
+    <g id="Enmascarar_grupo_28" data-name="Enmascarar grupo 28" transform="translate(646.608 575)" clip-path="url(#clip-path)">
+      <g id="fotografia" transform="translate(0 6.343)">
+        <g id="Capa_1" data-name="Capa 1" transform="translate(0)">
+          <path id="Trazado_104" data-name="Trazado 104" d="M71.057,57.524H6.763A6.763,6.763,0,0,1,0,50.752V13.536A6.763,6.763,0,0,1,6.763,6.763h1.7A3.391,3.391,0,0,1,11.84,3.382h3.381a3.391,3.391,0,0,1,3.391,3.382h3.381a6.207,6.207,0,0,0,3.381-1.686L28.719,1.7A4.715,4.715,0,0,1,32.147,0H45.673A4.326,4.326,0,0,1,49.1,1.7l3.381,3.382a6.207,6.207,0,0,0,3.344,1.686h15.23a6.763,6.763,0,0,1,6.763,6.772V50.752a6.763,6.763,0,0,1-6.763,6.772Zm3.381-43.989a3.382,3.382,0,0,0-3.381-3.345h-15.6a9.514,9.514,0,0,1-5.429-2.724l-3.576-3.6-.13-.25a.973.973,0,0,0-.6-.232H32.147a1.445,1.445,0,0,0-.723.389l-.13.167-3.5,3.53a9.514,9.514,0,0,1-5.4,2.659H6.763a3.382,3.382,0,0,0-3.381,3.382V50.752a3.382,3.382,0,0,0,3.381,3.382H71.057a3.382,3.382,0,0,0,3.381-3.382ZM38.91,50.752a18.613,18.613,0,1,1,18.612-18.6A18.612,18.612,0,0,1,38.91,50.752Zm0-33.835A15.231,15.231,0,1,0,54.131,32.145,15.231,15.231,0,0,0,38.91,16.917Zm0,23.69a8.459,8.459,0,1,1,8.458-8.459,8.458,8.458,0,0,1-8.458,8.459Zm0-13.536a5.077,5.077,0,1,0,5.077,5.077A5.077,5.077,0,0,0,38.91,27.071ZM15.221,20.3H8.458a1.686,1.686,0,0,1-1.7-1.686V15.222a1.7,1.7,0,0,1,1.7-1.686h6.763a1.7,1.7,0,0,1,1.7,1.686v3.391a1.686,1.686,0,0,1-1.7,1.686Z" transform="translate(0)" fill="#ef797a"/>
         </g>
       </g>
     </g>
-    <text id="FOTOGRAFÍA" transform="translate(630 903)" fill="#f27979" font-size="16" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">FOTOGRAFÍA</tspan></text>
+    <text id="FOTOGRAFÍA" transform="translate(648.337 675.297)" fill="#f27979" font-size="13" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">FOTOGRAFÍA</tspan></text>
   </g>
 </svg>

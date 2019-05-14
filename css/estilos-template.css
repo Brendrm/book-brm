@@ -17,27 +17,28 @@ body{
 	background-position: center;
 }
 h1{
-	font-size: 70px;
+	font-size: 50px;
 	font-family: 'Poppins', sans-serif;
 }
 
 h2{
-	font-size: 40px;
-	font-family: 'Poppins', sans-serif;
-}
-h3{
 	font-size: 30px;
 	font-family: 'Poppins', sans-serif;
 }
-h4{
-	font-size: 22px;
-	font-family: 'Poppins', sans-serif;
-}
-h5{
-	font-size: 16px;
+h3, h4{
+	font-size: 20px;
 	font-family: 'Poppins', sans-serif;
 }
 
+h5{
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h6{
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
 p{
 	font-size: 18px;
 	font-family: 'Raleway', sans-serif;
@@ -48,6 +49,7 @@ div#centrarNav, div#centrarHeader, div#centrarFooter{
 	width: 1200px;
 	height: 100%;
 	margin: 0 auto;
+	background-color: rgba(134,188,242,0.62);
 	
 }
 nav{
@@ -103,17 +105,17 @@ div#centrarHeader img#foto{
 
 footer{
 	width: 100%;
-	height: 323px;
+	height: 165px;
 	background-color: #37424A;
 }
 
 footer div#colorfooter{
-	width: 1424px;
-	height: 64px;
+	width: 1407px;
+	height: 30px;
 	background-color: #F27979;
 	position: absolute;
-	top: 259px;
-	margin-left: -112px;
+	top: 165px;
+	left: -104px;
 }
 
 div#centrarHeader img{
@@ -141,22 +143,22 @@ nav a{
 	text-decoration: none;
 }
 div#rectanguloFooter-deco{
-	width: 875px;
-	height: 121px;
+	width: 542px;
+	height: 112px;
 	border: solid 2px #F27979;
-	margin-top: -190px;
+	margin-top: -140px;
 }
 
 ul#menuFooter{
 	float: right;
 	list-style: none;
 	font-family: 'Poppins', sans-serif;
-	font-size: 18px;
-	margin-top: 60px;
+	font-size: 16px;
+	margin-top: 25px;
 }
 
 ul#menuFooter li{
-	margin-bottom: 12px;
+	margin-bottom: 3px;
 }
 
 ul#menuFooter a{

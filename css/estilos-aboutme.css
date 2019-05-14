@@ -2,83 +2,326 @@
 /* CSS Document */
 
 body{
-	height: 2879px;
+	height: 2344px;
 }
 
-header div#cajitas-rosa1{
-	width: 1150px;
-	height: 129px;
+footer{
+	margin-top: 1893px;
+}
+
+div.box-rosa{
+	width: 967px;
+	height: 79px;
 	background-color: #D8BEBE;
-	float: right;
-	margin-top: -30px;
-	position: relative;
-	z-index: 0;
-	
-	
 }
 
-header div#cajitas-rosa2{
-	width: 1150px;
-	height: 129px;
-	background-color: #D8BEBE;
-	float: left;
-	margin-top: 449px;
+div#seccion-aboutme{
+	width: 1200px;
+	height: 513px;
+	background-color: rgba(238,109,112,0.34);
+	margin: 0 auto;
+}
+div.box-rosa#box1{
+	margin-top: 13px;
+	margin-left: 335px;
 }
 
-header div#cajitas-rosa3{
-	width: 1150px;
-	height: 129px;
-	background-color: #D8BEBE;
-	float: right;
-	margin-top: 610px;
-}
-
-header div#cajitas-rosa4{
-	width: 1150px;
-	height: 129px;
-	background-color: #D8BEBE;
-	float: left;
-	margin-top: 675px;
-}
-
-div#cajita-borde-naranja1{
-	width: 340px;
-	height: 508px;
-	margin-top: 45px;
-	margin-left: 97px;
-	border: solid 2px #F27979;
-	position: relative;
-	z-index: 1;
-}
-
-header div img{
-	margin-top: -750px;
-	position: relative;
-	z-index: 2;
-}
-
-div#box-mini-gris{
-	width: 108px;
-	height: 63px;
+div.box-gris{
+	width: 92px;
+	height: 54px;
 	background-color: #37424A;
-	margin-left: 360px;
-	position: absolute;
-	top: -450px;
 }
-div#caja-perfil{
-	width: 900px;
-	height: 257px;
-	background-color: #F2F2F2;
-	margin-left: 525px;
-	position: absolute;
-	top: 350px;
+div.box-gris#box-1{
+	margin-top: -380px;
+	margin-left: 352px;
 }
 
-div#centrarHeader h1{
-	float: right;
-	margin-top: -2175px;
+div#seccion-aboutme img{
+	margin-top: -200px;
+	margin-left: 76px;
+}
+
+h1#about-me{
+	color: #37424A;
+	padding-left: 620px;
+	padding-top: 40px;
+}
+
+div#box-naranja1{
+	width: 296px;
+	height: 438px;
+	border: solid 2px #F27979;
+	margin-left: 42px;
+	margin-top:-45px;
+}
+
+div#box-perfil{
+	width: 935px;
+	height: 191px;
+	background-color: #F2F2F2;
+	margin-top: 70px;
+	margin-left: 368px;
+}
+
+div#box-perfil p{
+	padding-left: 92px;
+	padding-top: 44px;
 	color: #37424A;
 }
-footer{
-	margin-top: 2556px;
+
+div#seccion-experiencia{
+	width: 1200px;
+	height: 619px;
+	background-color: rgba(12,71,130,0.42);
+	margin: 0 auto;
+	margin-top: -514px;
+}
+div.box-rosa#box2{
+	margin-top: 514px;
+	margin-left: -103px;
+}
+
+div#box-naranja2{
+	width: 491px;
+	height: 45px;
+	border: solid 2px #F27979;
+	margin-left: 368px;
+	margin-top: 40px;
+}
+
+h1#experiencia{
+	color: #37424A;
+	padding-top: 40px;
+	padding-left: 100px;
+}
+
+div#box-exp{
+	width: 1227px;
+	height: 423px;
+	background-color: rgba(242,242,242,1.00);
+	margin-top: 58px;
+	margin-left: -103px;
+}
+
+div.box-expmeses{
+	width: 148px;
+	height: 56px;
+}
+div.box-expmeses#uno{
+	position: absolute;
+	top: 678px;
+	left: 128px;
+}
+
+div.box-expmeses h3.agosto{
+	color: #F27979;
+}
+
+div.box-expmeses#dos{
+	position: absolute;
+	top: 805px;
+	left: 128px;
+}
+
+div#linea-gris{
+	width: 7px;
+	height: 433px;
+	background-color: #37424A;
+	position: absolute;
+	top: 632px;
+	left: 308px;
+}
+
+div.cajitas-texto{
+	width: 628px;
+	height: 113px;
+}
+
+div.cajitas-texto#cajita1{
+	position: absolute;
+	top: 664px;
+	left: 368px;
+	padding-top: 19px;
+}
+
+div.cajitas-texto#cajita2{
+	position: absolute;
+	top: 805px;
+	left: 368px;
+}
+
+div.cajitas-texto#cajita3{
+	position: absolute;
+	top: 942px;
+	left: 368px;
+}
+
+div.cajitas-texto h3{
+	color: #F27979;
+}
+
+div.cajitas-texto p{
+	color: #37424A;
+}
+
+div#box-naranja3{
+	width: 149px;
+	height: 280px;
+	border: solid 2px #F27979;
+	position: absolute;
+	top: -120px;
+	left: 720px;
+}
+
+div.box-gris#box-2{
+	position: absolute;
+	top: -100px;
+	left: 340px;
+}
+div#seccion-habilidades{
+	width: 1200px;
+	height: 679px;
+	background-color: rgba(136,19,105,0.48);
+	margin: 0 auto;
+	margin-top: -540px;
+}
+div.box-rosa#box3{
+	margin-top: 540px;
+	margin-left: 335px;
+}
+
+h1#habilidades{
+	color: #37424A;
+	padding-top: 40px;
+	padding-left: 560px;
+}
+
+div.box-gris#box-3{
+	position: absolute;
+	top: 1187px;
+	left: 421px;
+}
+div#box-naranja3{
+	width: 234px;
+	height: 97px;
+	position: absolute;
+	top: 1210px;
+	left: -20px;
+	z-index: 100;
+	
+}
+div#box-hab{
+	width: 1227px;
+	height: 497px;
+	background-color: #F2F2F2;
+	position: absolute;
+	top: 1267px;
+	left: 76px;
+}
+
+div#box-tabs{
+	width: 775px;
+	left: 372px;
+	position: absolute;
+	top: 70px;
+	left: 221px;
+}
+div#seccion-cursos{
+	width: 1200px;
+	height: 532px;
+	background-color: rgba(175,204,40,0.44);
+	margin: 0 auto;
+	margin-top: -600px;
+}
+div.box-rosa#box4{
+	margin-top: 600px;
+	margin-left: -103px;
+}
+
+h1#cursos{
+	color: #37424A;
+	padding-top: 40px;
+	padding-left: 100px;
+}
+
+div#box-cursos{
+	width: 1227px;
+	height: 367px;
+	background-color: #F2F2F2;
+}
+
+div#box-cursos div.cajitas-texto-cursos{
+	width: 644px;
+	height: 73px;
+}
+
+div.cajitas-texto-cursos#curso1{
+	position: absolute;
+	top: 1940px;
+	left: 70px;
+}
+
+div.cajitas-texto-cursos#curso2{
+	position: absolute;
+	top: 2020px;
+	left: 70px;
+}
+
+div.cajitas-texto-cursos#curso3{
+	position: absolute;
+	top: 2120px;
+	left: 70px;
+}
+
+div.cajitas-texto-cursos#curso4{
+	position: absolute;
+	top: 2210px;
+	left: 70px;
+}
+
+div.cajitas-texto-cursos#curso1 h3{
+	color: #F27979;
+}
+
+div.cajitas-texto-cursos#curso2 h3{
+	color: #F27979;
+}
+
+div.cajitas-texto-cursos#curso3 h3{
+	color: #F27979;
+}
+
+div.cajitas-texto-cursos#curso4 h3{
+	color: #F27979;
+}
+
+div.cajitas-texto-cursos#curso1 p{
+	color: #37424A;
+}
+
+div.cajitas-texto-cursos#curso2 p{
+	color: #37424A;
+}
+
+div.cajitas-texto-cursos#curso3 p{
+	color: #37424A;
+}
+
+div.cajitas-texto-cursos#curso4 p{
+	color: #37424A;
+}
+
+div#box-naranja4{
+	width: 491px;
+	height: 54px;
+	border: solid 2px #F27979;
+	position: absolute;
+	top: 1960px;
+	left: 808px;
+}
+
+div.box-gris#box-4{
+	position: absolute;
+	top: 1860px;
+	left: 730px;
 }

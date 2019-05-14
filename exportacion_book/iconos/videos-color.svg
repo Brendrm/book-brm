@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="124" viewBox="0 0 92 124">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="134" viewBox="0 0 92 134">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectángulo_239" data-name="Rectángulo 239" width="92" height="83" transform="translate(804 384)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectángulo_239" data-name="Rectángulo 239" width="77.82" height="70.21" transform="translate(0 0)" fill="#d8bebe" stroke="#707070" stroke-width="1"/>
     </clipPath>
   </defs>
-  <g id="Grupo_62" data-name="Grupo 62" transform="translate(-794 -785)">
-    <g id="Enmascarar_grupo_29" data-name="Enmascarar grupo 29" transform="translate(-10 401)" clip-path="url(#clip-path)">
-      <g id="video" transform="translate(804 389.499)">
-        <g id="Capa_1" data-name="Capa 1">
-          <path id="Trazado_105" data-name="Trazado 105" d="M84,72H7.977A8.01,8.01,0,0,1,0,63.992V8A8,8,0,0,1,8,0H84.023A8,8,0,0,1,92,8V63.992A8.01,8.01,0,0,1,84,72ZM22.036,4H8A4.011,4.011,0,0,0,4,8v4H22.036ZM44.072,4H26v8H43.995ZM66.108,4H47.994v8H66ZM88.144,8a4.011,4.011,0,0,0-4-4H70v8H88Zm0,8H4v40H88Zm0,43.995H70V68H66v-8.01h-18V68h-4v-8.01H26V68H22.036v-8.01H4v4A4.011,4.011,0,0,0,8,68H84.023a4.011,4.011,0,0,0,4-4.011ZM41.24,47.531A1.961,1.961,0,0,1,40,47.994,1.994,1.994,0,0,1,38,46V26A2.005,2.005,0,0,1,40,24a1.906,1.906,0,0,1,1.1.4l15.568,9.762A1.983,1.983,0,0,1,58,36.018a1.95,1.95,0,0,1-.815,1.565Z" fill="#ef797a"/>
+  <g id="Grupo_78" data-name="Grupo 78" transform="translate(-809.82 -562)">
+    <rect id="Rectángulo_354" data-name="Rectángulo 354" width="92" height="134" transform="translate(809.82 562)" fill="none" opacity="0.451"/>
+    <g id="Enmascarar_grupo_29" data-name="Enmascarar grupo 29" transform="translate(817.087 575)" clip-path="url(#clip-path)">
+      <g id="video" transform="translate(0 4.651)">
+        <g id="Capa_1" data-name="Capa 1" transform="translate(0)">
+          <path id="Trazado_105" data-name="Trazado 105" d="M71.054,60.907H6.748A6.776,6.776,0,0,1,0,54.131V6.766A6.766,6.766,0,0,1,6.766,0H71.073A6.766,6.766,0,0,1,77.82,6.766V54.131a6.776,6.776,0,0,1-6.766,6.776ZM18.64,3.383H6.766A3.392,3.392,0,0,0,3.383,6.766V10.15H18.64Zm18.64,0H21.995V10.15H37.214Zm18.64,0H40.6V10.15H55.825Zm18.64,3.383a3.392,3.392,0,0,0-3.383-3.383H59.208V10.15H74.437Zm0,6.766H3.383V47.365H74.437Zm0,37.215H59.208v6.776H55.825V50.748H40.6v6.776H37.214V50.748H21.995v6.776H18.64V50.748H3.383v3.383a3.392,3.392,0,0,0,3.383,3.393H71.073a3.392,3.392,0,0,0,3.383-3.393ZM34.884,40.207a1.659,1.659,0,0,1-1.053.391,1.687,1.687,0,0,1-1.687-1.687V22a1.7,1.7,0,0,1,1.687-1.7,1.612,1.612,0,0,1,.932.336l13.169,8.258a1.678,1.678,0,0,1,1.128,1.575,1.65,1.65,0,0,1-.69,1.323Z" transform="translate(0 0)" fill="#ef797a"/>
         </g>
       </g>
     </g>
-    <text id="VIDEOS" transform="translate(811 903)" fill="#f27979" font-size="16" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">VIDEOS</tspan></text>
+    <text id="VIDEOS" transform="translate(830.781 675.297)" fill="#f27979" font-size="13" font-family="Poppins-Medium, Poppins Medium" font-weight="500"><tspan x="0" y="0">VIDEOS</tspan></text>
   </g>
 </svg>
